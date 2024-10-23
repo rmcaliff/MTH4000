@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rmcaliff
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in maths
+- 🌱 I’m currently learning calculus
+- 💞️ I’m looking to collaborate on proofs
 - 📫 How to reach me rosette.marlena.califf@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: the sky is blue
+- ⚡ Fun fact: the grass is green
 
 <!---
 rmcaliff/rmcaliff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
